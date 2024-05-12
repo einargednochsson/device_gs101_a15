@@ -52,4 +52,4 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.preventative_fsck = 1
 
-TARGET_SYSTEM_PROP := device/google/gs201/system.prop
+TARGET_SYSTEM_PROP := device/google/gs101/system.prop
